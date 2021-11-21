@@ -72,6 +72,4 @@ class ApplicationTest {
         entityManager.getTransaction().commit();
         entityManager.close();
     }
-
-
 }
